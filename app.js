@@ -1,2 +1,2 @@
 const { PeerServer } = require('peer'); 
-PeerServer({port: 9000, path: '/app'})
+PeerServer({port: 9001, path: '/karaoke-api'})

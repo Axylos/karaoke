@@ -1,8 +1,7 @@
 import Peer from 'peerjs'
 const config = {
-  host: 'localhost',
-  port: 9000,
-  path: '/app'
+  host: 'draketalley.com',
+  path: '/karaoke-api'
 }
 let peer;
 let handle;
