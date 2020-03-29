@@ -8,7 +8,9 @@
   },
   "dependencies": {
     "create-react-app": "^3.4.1",
+    "express": "^4.17.1",
     "mediasoup": "3",
+    "morgan": "^1.10.0",
     "ngrok": "^3.2.7",
     "nodemon": "^2.0.2",
     "peer": "^0.5.1",

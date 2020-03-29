@@ -13,6 +13,7 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
+    "release": "yarn run build && rm -rf /var/www/html/karaoke/* && cp -r build/* /var/www/html/karaoke/",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
