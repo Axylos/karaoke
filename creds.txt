@@ -1,0 +1,5 @@
+sdk key:
+YuTWoqlOQ4vohJRVfWQjeINTLruloqi469gE
+
+secret:
+LycF6i9dTjKQmzwjjOYS8KemVhRC2xtq0E7l

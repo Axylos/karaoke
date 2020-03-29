@@ -1,0 +1,16 @@
+{
+  "name": "power-karaoke",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "create-react-app": "^3.4.1",
+    "mediasoup": "3",
+    "ngrok": "^3.2.7",
+    "peer": "^0.5.1",
+    "peerjs": "^1.2.0"
+  }
+}
